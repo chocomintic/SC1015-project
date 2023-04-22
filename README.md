@@ -1,6 +1,75 @@
-# SC1015-project
+# SC1015-Project: BAPUS 
 
-Our Motivation:
-⋅⋅* Smartphones have become a necessity for people of all ages. However, students are unable to afford any smartphone that they like due to the limited funds they have, as well as the increasingly cost of phones.
+### Table of Contents:
 
-⋅⋅* Hence, it is important to know whether a phone is worth its price, allowing students to maximize their satisfaction, and ensure that their money is well spent. 
+1. [Introduction](https://github.com/chocomintic/SC1015-project/edit/main/README.md#introduction)  
+2. [Data Preprocessing](https://github.com/chocomintic/SC1015-project/edit/main/README.md#data-preprocessing)  
+3. [Methodlogy](https://github.com/chocomintic/SC1015-project/edit/main/README.md#methodlogy)  
+4. [Experiments](https://github.com/chocomintic/SC1015-project/edit/main/README.md#experiments)  
+5. [Conclusion](https://github.com/chocomintic/SC1015-project/edit/main/README.md#conclusion)  
+6. [References](https://github.com/chocomintic/SC1015-project/edit/main/README.md#references)  
+
+# Introduction
+
+### Our Motivation:
+
+* Smartphones have become a necessity for people of all ages. However, students are unable to afford any smartphone that they like due to the limited funds they have, as well as the increasingly cost of phones.
+
+* Hence, it is important to know whether a phone is worth its price, allowing students to maximize their satisfaction, and ensure that their money is well spent. 
+
+### Project Goal
+* This project aims to maximize students satisfaction with the smartphone that they buy by considering some factors of the phone and predicting the worth of the phone before buying, hence giving students the ability to decide whether the smartphone is worth it.
+
+### Dataset Used:
+The dataset used for this project is retrived from [here](https://www.kaggle.com/datasets/anas123siddiqui/mobiles?resource=download)
+
+### Jupyter Notebooks:
+
+* Data Collection
+* Data Clearning and Preprocessing
+* Exploratory Data Analysis & Visualazation
+* 
+
+# Data Preprocessing
+
+### Overview of DataScience Pipeline:
+Data collection:
+
+Data cleaning and preprocessing
+
+EDA & Visualization
+
+Regression
+
+Classification
+
+# Methodlogy
+
+# Experiments
+
+# Conclusion
+### Key insights & recommendations
+
+### What we learnt from this project:
+
+### Contributions:
+
+Data Collection:  
+Data cleaning and preprocessing:  
+EDA and visualazation:  
+Regression:  
+Classification:  
+Presentation Script:  
+Presentation Voice Over + Editing:  
+Presentation slides:  
+GitHub ReadME: 
+1. @[chocomintic](https://github.com/chocomintic) (Chua Shun Kah) - 
+2. (Wong Rong Jing) - 
+3. @[hechuka](https://github.com/hechuka) (Heng Choon Kang) - 
+
+# References:
+* https://www.kaggle.com/datasets/anas123siddiqui/mobiles?resource=download
+* 
+* 
+* 
+* 
