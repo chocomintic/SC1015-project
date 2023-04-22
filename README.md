@@ -33,15 +33,11 @@ The dataset used for this project is retrived from [here](https://www.kaggle.com
 # Data Preprocessing
 
 ### Overview of DataScience Pipeline:
-Data collection:
-
-Data cleaning and preprocessing
-
-EDA & Visualization
-
-Regression
-
-Classification
+Data collection:  
+Data cleaning and preprocessing  
+EDA & Visualization  
+Regression  
+Classification  
 
 # Methodlogy
 
