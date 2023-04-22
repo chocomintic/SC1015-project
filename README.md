@@ -21,7 +21,7 @@
 * This project aims to maximize students satisfaction with the smartphone that they buy by considering some factors of the phone and predicting the worth of the smartphone before buying, hence giving students the ability to decide whether the smartphone is worth it.
 
 ### Dataset Used:
-The dataset used for this project is retrived from [here](https://www.kaggle.com/datasets/anas123siddiqui/mobiles?resource=download)
+The dataset used for this project is retrived from [here](https://www.kaggle.com/datasets/anas123siddiqui/mobiles)
 
 ### Jupyter Notebooks:
 
@@ -64,7 +64,7 @@ GitHub ReadME:
 3. @[hechuka](https://github.com/hechuka) (Heng Choon Kang) - 
 
 # References:
-* https://www.kaggle.com/datasets/anas123siddiqui/mobiles?resource=download
+* https://www.kaggle.com/datasets/anas123siddiqui/mobiles
 * 
 * 
 * 
