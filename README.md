@@ -18,7 +18,7 @@
 * Hence, it is important to know whether a phone is worth its price, allowing students to maximize their satisfaction, and ensure that their money is well spent. 
 
 ### Project Goal
-* This project aims to maximize students satisfaction with the smartphone that they buy by considering some factors of the phone and predicting the worth of the phone before buying, hence giving students the ability to decide whether the smartphone is worth it.
+* This project aims to maximize students satisfaction with the smartphone that they buy by considering some factors of the phone and predicting the worth of the smartphone before buying, hence giving students the ability to decide whether the smartphone is worth it.
 
 ### Dataset Used:
 The dataset used for this project is retrived from [here](https://www.kaggle.com/datasets/anas123siddiqui/mobiles?resource=download)
