@@ -2,12 +2,12 @@
 
 ### Table of Contents:
 
-1. [Introduction](https://github.com/chocomintic/SC1015-project/edit/main/README.md#introduction)  
-2. [Data Preprocessing](https://github.com/chocomintic/SC1015-project/edit/main/README.md#data-preprocessing)  
-3. [Methodlogy](https://github.com/chocomintic/SC1015-project/edit/main/README.md#methodlogy)  
-4. [Experiments](https://github.com/chocomintic/SC1015-project/edit/main/README.md#experiments)  
-5. [Conclusion](https://github.com/chocomintic/SC1015-project/edit/main/README.md#conclusion)  
-6. [References](https://github.com/chocomintic/SC1015-project/edit/main/README.md#references)  
+1. [Introduction](https://github.com/chocomintic/SC1015-project/blob/main/README.md#introduction)  
+2. [Data Preprocessing](https://github.com/chocomintic/SC1015-project/blob/main/README.md#data-preprocessing)  
+3. [Methodlogy](https://github.com/chocomintic/SC1015-project/blob/main/README.md#methodlogy)  
+4. [Experiments](https://github.com/chocomintic/SC1015-project/blob/main/README.md#experiments)  
+5. [Conclusion](https://github.com/chocomintic/SC1015-project/blob/main/README.md#conclusion)  
+6. [References](https://github.com/chocomintic/SC1015-project/blob/main/README.md#references)  
 
 # Introduction
 
