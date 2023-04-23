@@ -60,7 +60,7 @@ Presentation Voice Over + Editing:
 Presentation slides:  
 GitHub ReadME: 
 1. @[chocomintic](https://github.com/chocomintic) (Chua Shun Kah) - 
-2. (Wong Rong Jing) - 
+2. @[warjay](https://github.com/warjay)(Wong Rong Jing) - 
 3. @[hechuka](https://github.com/hechuka) (Heng Choon Kang) - 
 
 # References:
