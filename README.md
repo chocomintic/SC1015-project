@@ -49,13 +49,13 @@ EDA & Visualization:
 ### What we learnt from this project:
 
 ### Contributions:  
-1. @[chocomintic](https://github.com/chocomintic) (Chua Shun Kah) - Data Collection/Data cleaning and preprocessing
-2. @[warjay](https://github.com/warjay)(Wong Rong Jing) - EDA and visualazation/Regression
-3. @[hechuka](https://github.com/hechuka) (Heng Choon Kang) - Presentation Script/Presentation/Presentation Voice Over + Editing/GitHub ReadME
+1. @[chocomintic](https://github.com/chocomintic) (Chua Shun Kah) - Data Collection/Data cleaning and preprocessing/Presentation Script
+2. @[warjay](https://github.com/warjay)(Wong Rong Jing) - Data Collection/Data cleaning/EDA and visualazation/Regression
+3. @[hechuka](https://github.com/hechuka) (Heng Choon Kang) - Data Collection/Presentation Script/Presentation/Presentation Voice Over + Editing/GitHub ReadME
 
 # References:
 * https://www.kaggle.com/datasets/anas123siddiqui/mobiles
 * https://www.youtube.com/watch?v=eGXw9n7AnV4&ab_channel=ProfessorRyan
 * https://medium.com/@mubarakb/ridge-and-lasso-a-simple-overview-6c3cc72fe7d
-* 
+
 
