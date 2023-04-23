@@ -39,14 +39,31 @@ Data cleaning and preprocessing:
 
 EDA & Visualization:   
 
-# Methodlogy
+# Methodlogy  
+Linear regression  
+Lasso regression  
+Ridge regression  
 
 # Experiments
+Decision tree  
 
 # Conclusion
-### Key insights & recommendations
+### Outcome of project  
+Brand of phone plays a huge role in the decision to buy phone  
+Specs such as Display size and RAM has the higher factors for the star rating  
 
-### What we learnt from this project:
+### Limitations & Improvements
+Limitations:  
+* Dataset is limited  
+* Many data is missing/wrong  
+
+Improvements:  
+* Better dataset  
+* Do survey with students  
+* Look for better Machine learning model  
+
+
+
 
 ### Contributions:  
 1. @[chocomintic](https://github.com/chocomintic) (Chua Shun Kah) - Data Collection/Data cleaning and preprocessing/Presentation Script
