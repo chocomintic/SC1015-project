@@ -65,7 +65,7 @@ GitHub ReadME:
 
 # References:
 * https://www.kaggle.com/datasets/anas123siddiqui/mobiles
-* 
+* https://www.youtube.com/watch?v=eGXw9n7AnV4&ab_channel=ProfessorRyan
 * 
 * 
 * 
