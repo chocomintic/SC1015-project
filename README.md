@@ -34,8 +34,11 @@ The dataset used for this project is retrived from [here](https://www.kaggle.com
 
 ### Overview of DataScience Pipeline:
 Data collection:  
-Data cleaning and preprocessing  
-EDA & Visualization  
+Data cleaning and preprocessing:  
+* Removing useless features
+* Feature engineering  
+
+EDA & Visualization:   
 Regression  
 Classification  
 
@@ -51,7 +54,7 @@ Classification
 ### Contributions:
 
 Data Collection:  
-Data cleaning and preprocessing:  
+Data cleaning and preprocessing:   
 EDA and visualazation:  
 Regression:  
 Classification:  
